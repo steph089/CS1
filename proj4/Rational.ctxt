@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Rational(int,\ int)
+comment1.params=r
+comment1.target=Rational\ sum(Rational)
+comment2.params=
+comment2.target=int\ getNumerator()
+comment3.params=
+comment3.target=int\ getDenominator()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=void\ reduce()
+comment6.params=x\ y
+comment6.target=int\ gcd(int,\ int)
+comment7.params=s
+comment7.target=boolean\ lessThan(Rational)
+comment8.params=s
+comment8.target=Rational\ divide(Rational)
+numComments=9
